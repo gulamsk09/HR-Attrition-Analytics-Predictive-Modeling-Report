@@ -1,0 +1,2 @@
+# HR-Attrition-Analytics-Predictive-Modeling-Report
+This HR analytics project by Mohd Gulam Sheikh leverages synthetic data to predict employee attrition. Built using Pandas, Scikit-Learn, and Seaborn, it conducts comprehensive EDA and feature preprocessing. The machine learning pipeline trains Logistic Regression, Random Forest, and Gradient Boosting models to deliver actionable retention insights.
